@@ -4,3 +4,5 @@ SELECT
     *
 FROM
     movies;
+
+ALTER table movies ADD PRIMARY KEY (id);
